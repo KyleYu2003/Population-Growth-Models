@@ -4,10 +4,8 @@ In this project, I used four ODE model to capture the trend of a yeast culture p
 ## Contact 
 You can contact me through LinkedIn: https://www.linkedin.com/in/kangqi-yu-339266220/
 
-## Author and acknowledgment
-Author: Yu Kangqi (余康齐)\
-Acknowledgment: The original data except *all_instruments.csv* from CSMAR (http://cndata1.csmar.com/csmar.html?v=1634558712806#/index) \
-The file *all_instruments.csv* is from ricequant (https://www.ricequant.com/welcome/)
+## Author
+Author: Yu Kangqi (余康齐)
 
 ## License
 For academic integrity, I choose the following license.
