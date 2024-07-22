@@ -2,7 +2,7 @@
 In this project, I used four ODE model to capture the trend of a yeast culture population.
 
 ## Contact 
-You can contact me through LinkedIn: https://www.linkedin.com/in/kangqi-yu-339266220/
+You can contact me through LinkedIn: https://www.linkedin.com/in/kangqi-kyle-yu-339266220/
 
 ## Author
 Author: Yu Kangqi (余康齐)
